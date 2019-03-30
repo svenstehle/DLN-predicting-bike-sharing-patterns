@@ -15,7 +15,7 @@ This is a regression task with a continuous output.
 ### Approach:
 * Loading and preparing data is done for us
 * Scaling of variables to values between 0 and 1 and appropriate splits into train, test and validation sets is taken care of for us
-* Specified MLP architecture etc. in my_answers.py
+* Specified MLP architecture etc. in `my_answers.py`
 * Initialized network weights
 * Implemented necessary activation functions, forward pass, backpropagation and weight updates
 * Set network hyperparameters
