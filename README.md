@@ -3,7 +3,7 @@ Cloned from Udacity. Goal is to design a neural network from scratch to get the 
 See **Introduction** in the PDF `Predicting Bike-Sharing Patterns - Udacity.pdf` for more details.
 
 ### Problem statement:
-Our algorithm should predict the bike sharing patterns for previously unseen data (days) in the future.
+Our algorithm should predict the bike sharing patterns (total count of bike riders) for previously unseen data (days) in the future.
 This is a regression task with a continuous output.
 
 ### Install and use:
